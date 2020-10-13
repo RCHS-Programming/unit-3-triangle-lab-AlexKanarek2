@@ -1,5 +1,5 @@
-//Name: 
-//Date: 
+//Name: Alex Kanarek
+//Date: 10-08-2020
 
 import java.util.Scanner; 
 
